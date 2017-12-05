@@ -1,0 +1,10 @@
+{
+  "name": "cencorify",
+  "version": "0.0.1",
+  "dependencies": {},
+  "description": "censors words out of text",
+  "main":"censortext",
+  "engines": {
+    "node":"*"
+  }
+}
